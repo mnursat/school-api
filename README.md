@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<img src="assets/interface.PNG" alt="drawing" width="1000"/>
-<img src="assets/schemas.PNG" alt="drawing" width="1000"/>
+<img src="screenshots/interface.PNG" alt="drawing" width="1000"/>
+<img src="screenshots/schemas.PNG" alt="drawing" width="1000"/>
 
 ---
 
